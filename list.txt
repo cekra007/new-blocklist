@@ -1,0 +1,14 @@
+127.0.0.1	duniagames.co.id
+127.0.0.1	google.com/fbx?fbx=snake_arcade
+127.0.0.1	google.com/logos/2010/pacman10-i.html
+127.0.0.1	girlsgogames.co.id
+127.0.0.1	minecraft.net
+127.0.0.1	permainan.co.id
+127.0.0.1	classic.minecraft.net
+127.0.0.1	onlinegame.co.id
+127.0.0.1	games.co.id
+127.0.0.1	hoopgame.net
+127.0.0.1	
+127.0.0.1	
+
+
