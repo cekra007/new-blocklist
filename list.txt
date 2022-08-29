@@ -8,4 +8,22 @@
 127.0.0.1	hoopgame.net
 127.0.0.1	krunker.io
 127.0.0.1	gametable.org
-
+127.0.0.1	zodigames.com
+127.0.0.1	entertaininggames.club
+127.0.0.1	iunblock.co
+127.0.0.1	dino-chrome.com
+127.0.0.1	poki.co.id
+127.0.0.1	weiguogames.com
+127.0.0.1	sw.com.tw
+127.0.0.1	miminogames.com
+127.0.0.1	share-games.com
+127.0.0.1	dressupwho.com
+127.0.0.1	id.izito.com
+127.0.0.1	playpark.com
+127.0.0.1	sonsaur.com
+127.0.0.1	centerforyoung.org
+127.0.0.1	alienworlds.io
+127.0.0.1	vigoo.fun
+127.0.0.1	twoplayergames.org
+127.0.0.1	vseigru.net
+127.0.0.1	zeegames.com
