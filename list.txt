@@ -13,6 +13,7 @@
 127.0.0.1	iunblock.co
 127.0.0.1	dino-chrome.com
 127.0.0.1	poki.co.id
+127.0.0.1	poki.com
 127.0.0.1	weiguogames.com
 127.0.0.1	sw.com.tw
 127.0.0.1	miminogames.com
