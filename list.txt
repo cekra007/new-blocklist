@@ -33,6 +33,7 @@
 127.0.0.1	www.stumbleguys.com
 127.0.0.1	geometrylite.io
 127.0.0.1	geometrydashlite.io
+127.0.0.1	geometrydash-lite.io
 127.0.0.1	geometry-dashlite.io
 127.0.0.1	geometrydash.io
 127.0.0.1	api.stumbleguys.com
@@ -42,5 +43,17 @@
 127.0.0.1	geometrydash2.com
 127.0.0.1	geometry-dash.io
 127.0.0.1	geometrydash-free.com
+127.0.0.1	geometrydash.ee
+127.0.0.1	geometrydashsubzero.net
+127.0.0.1	geometrydash-scratch.com
+127.0.0.1	geometrydashlite.co
+127.0.0.1	gdbrowser.com
+127.0.0.1	geometrydashfree.com
+127.0.0.1	geometrydashworld.net
+127.0.0.1	geometrydash3d.io
+127.0.0.1	geometrydashonline.io
+127.0.0.1	geometrydashmeltdown.com
+127.0.0.1	www.robtopgames.com
+127.0.0.1	geometrydashfree.io
 
 
